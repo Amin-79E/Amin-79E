@@ -1,6 +1,6 @@
 # Hi, I'm Amin 👋
 
-Computer science student at **Université 8 Mai 1945 – Guelma** (Algeria), focused on becoming an **AI engineer**. I build with local and fine-tuned LLMs, and I write up what worked and what didn't.
+Computer science student at **Université 8 Mai 1945 – Guelma** (Algeria), focused on becoming an **AI engineer**. I build with local and fine-tuned LLMs.
 
 ## 🔭 What I'm working on
 
