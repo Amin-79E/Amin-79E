@@ -2,6 +2,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=180&section=header&text=Hi,%20I'm%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20aspiring%20AI%20engineer&descAlignY=60&descSize=18)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A371F7&center=true&vCenter=true&width=520&lines=Building+RAG+systems;Fine-tuning+and+evaluating+LLMs;Learning+something+every+day)](https://github.com/Amin-79E)
 
 </div>
@@ -27,7 +28,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 ## 🧰 Tech
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-learning-orange?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-learning-orange?style=flat&logo=openjdk&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -37,8 +38,8 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 ## 📫 Reach me
 
-- Email: your.email@example.com
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- Email: aminmbouhjar@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/
 
 <!-- Optional: contribution stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
