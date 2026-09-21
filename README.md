@@ -6,6 +6,8 @@
 
 </div>
 
+<br>
+
 I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I build with local and fine-tuned LLMs.
 
 ## 🔭 What I'm working on
@@ -36,7 +38,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 ## 🧰 Tech
 
 ![Python](https://img.shields.io/badge/Python-learning-orange?style=flat&logo=python&logoColor=white)
-
+![C](https://img.shields.io/badge/C-learning-orange?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-learning-orange?style=flat&logo=openjdk&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
