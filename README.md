@@ -1,15 +1,13 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Hi,%20I'm%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20aspiring%20AI%20engineer&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=180&section=header&text=Hi,%20I'm%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20aspiring%20AI%20engineer&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+RAG+systems;Fine-tuning+and+evaluating+LLMs;Learning+something+every+day)](https://github.com/Amin-79E)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A371F7&center=true&vCenter=true&width=520&lines=Building+RAG+systems;Fine-tuning+and+evaluating+LLMs;Learning+something+every+day)](https://github.com/Amin-79E)
 
 </div>
 
-I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I build with local and fine-tuned LLMs, and I write up what worked and what didn't.
-
-Computer science student at **Université 8 Mai 1945 – Guelma** (Algeria), focused on becoming an **AI engineer**. I build with local and fine-tuned LLMs, and I write up what worked and what didn't.
+I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I build with local and fine-tuned LLMs.
 
 ## 🔭 What I'm working on
 
