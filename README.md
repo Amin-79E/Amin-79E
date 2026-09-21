@@ -16,6 +16,7 @@ I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I b
 
 ## 🛠️ Projects
 [![Local RAG Restaurant Review Assistant](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=400&height=28&lines=Local+RAG+Restaurant+Review+Assistant)](https://github.com/Amin-79E/Learning-RAG)
+
 Terminal Q&A over restaurant reviews, running fully offline.
 `Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
 Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
