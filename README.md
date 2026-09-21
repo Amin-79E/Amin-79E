@@ -2,7 +2,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=180&section=header&text=Hi,%20I'm%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20aspiring%20AI%20engineer&descAlignY=60&descSize=18)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A371F7&center=true&vCenter=true&width=520&lines=Building+RAG+systems;Fine-tuning+and+evaluating+LLMs;Learning+something+every+day)](https://github.com/Amin-79E)
 
 </div>
