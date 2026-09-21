@@ -39,14 +39,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 **Also:** ChromaDB · Unsloth · QLoRA · Google Colab · Kaggle
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Amin-79E&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=8957e5&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-79E&layout=compact&hide_border=true&bg_color=0d1117&title_color=A371F7&text_color=c9d1d9" />
-
-</div>
+**Open to:** research collaboration · LLM evaluation · RAG projects · open source
 
 ## 📫 Reach me
 
