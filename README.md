@@ -15,7 +15,7 @@ I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I b
 - **Coursework:** CS50 (Python, AI, Data Science) and freeCodeCamp Python, plus Java for university
 
 ## 🛠️ Projects
-[![Python Tutor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=700&color=B026FF&repeat=false&width=650&height=40&lines=Python+Tutor%3A+fine-tuned+Qwen2.5-Coder-7B)](https://github.com/Amin-79E/Python-Tutor)
+[![Local RAG Restaurant Review Assistant](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&weight=700&color=EA80FC&repeat=false&width=380&height=28&lines=Local+RAG+Restaurant+Review+Assistant)](https://github.com/Amin-79E/Learning-RAG)
 Terminal Q&A over restaurant reviews, running fully offline.
 `Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
 Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
