@@ -15,15 +15,14 @@ I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I b
 - **Coursework:** CS50 (Python, AI, Data Science) and freeCodeCamp Python, plus Java for university
 
 ## 🛠️ Projects
-
-### *Local RAG Restaurant Review Assistant
+[![Local RAG Restaurant Review Assistant](https://img.shields.io/badge/Local_RAG_Restaurant_Review_Assistant-a855f7?style=for-the-badge)](https://github.com/Amin-79E/Learning-RAG)
 Terminal Q&A over restaurant reviews, running fully offline.
 `Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
 Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
 
 [![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Learning-RAG)
 
-### *Python Tutor: fine-tuned Qwen2.5-Coder-7B
+[![Python Tutor](https://img.shields.io/badge/Python_Tutor_%E2%80%A2_Qwen2.5--Coder--7B-a855f7?style=for-the-badge)](https://github.com/Amin-79E/Python-Tutor)
 QLoRA fine-tune (Unsloth) for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
 Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
 
