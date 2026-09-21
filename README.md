@@ -38,8 +38,12 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Also:** ChromaDB · Unsloth · QLoRA · Google Colab · Kaggle
+## 🤝 Open to
 
-**Open to:** research collaboration · LLM evaluation · RAG projects · open source
+- Research collaboration
+- LLM evaluation and RAG projects
+- Open-source contributions
+- Mentorship and feedback on my projects
 
 ## 📫 Reach me
 
