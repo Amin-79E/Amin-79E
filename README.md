@@ -15,7 +15,8 @@ I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I b
 - **Coursework:** CS50 (Python, AI, Data Science) and freeCodeCamp Python, plus Java for university
 
 ## 🛠️ Projects
-[![Local RAG Restaurant Review Assistant](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&weight=700&color=EA80FC&repeat=false&width=380&height=28&lines=Local+RAG+Restaurant+Review+Assistant)](https://github.com/Amin-79E/Learning-RAG)
+[![Local RAG Restaurant Review Assistant](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=700&color=EA80FC&repeat=false&width=450&height=32&lines=Local+RAG+Restaurant+Review+Assistant)](https://github.com/Amin-79E/Learning-RAG)
+
 Terminal Q&A over restaurant reviews, running fully offline.
 `Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
 Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
@@ -24,6 +25,7 @@ Documented limitations: no filtering of low-relevance retrieval, and occasional 
 
 
 [![Python Tutor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=700&color=EA80FC&repeat=false&width=500&height=32&lines=Python+Tutor%3A+fine-tuned+Qwen2.5-Coder-7B)](https://github.com/Amin-79E/Python-Tutor)
+
 QLoRA fine-tune (Unsloth) for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
 Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
 
