@@ -1,40 +1,46 @@
-# Hi, I'm Amin 👋
+<div align="center">
 
-Computer science student at **Université 8 Mai 1945 – Guelma** (Algeria), focused on becoming an **AI engineer**. I build with local and fine-tuned LLMs.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Hi,%20I'm%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20%C2%B7%20aspiring%20AI%20engineer&descAlignY=60&descSize=18)
 
-## 🔭 What I'm working on
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+RAG+systems;Fine-tuning+and+evaluating+LLMs;Learning+something+every+day)](https://github.com/Amin-79E)
 
-- **University chatbot:** a RAG system for Université 8 Mai 1945 – Guelma, built on university documents *(in progress)*
-- **Python tutor:** a fine-tuned code-debugging assistant, currently iterating on v2.0 with better training data
-- **Coursework:** CS50 (Python, AI, Data Science) and freeCodeCamp Python, plus Java for university
+</div>
+
+I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I build with local and fine-tuned LLMs, and I write up what worked and what didn't.
+
+## 🔭 Right now
+
+- 🏛️ Building a **RAG chatbot** for my university's documents
+- 🐍 Iterating on **Python Tutor v2.0** with better training data
+- 📚 CS50 (Python, AI, Data Science), freeCodeCamp Python, and Java for uni
+- 🎯 Challenge: **1,000 meaningful commits by January 1**
 
 ## 🛠️ Projects
 
-### [Local RAG Restaurant Review Assistant](https://github.com/YOUR-USERNAME/REPO-NAME)
-Terminal Q&A over restaurant reviews, running fully offline.
-`Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
-Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
-
-### [Python Tutor: fine-tuned Qwen2.5-Coder-7B](https://github.com/YOUR-USERNAME/REPO-NAME)
-QLoRA fine-tune (Unsloth) for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
-Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
+| | |
+|---|---|
+| **[Learning-RAG](https://github.com/Amin-79E/Learning-RAG)** | Fully offline Q&A over restaurant reviews.<br>`Ollama` `llama3.2` `Chroma` `LangChain`<br>Known limits: weak retrieval filtering, occasional hallucinated names. |
+| **[Python-Tutor](https://github.com/Amin-79E/Python-Tutor)** | QLoRA fine-tune of Qwen2.5-Coder-7B that explains Python bugs, benchmarked against the base model.<br>`Unsloth` `QLoRA` `Ollama`<br>Modest overall gain, strongest on requirement-based debugging. |
 
 ## 🧰 Tech
 
-![Python](https://img.shields.io/badge/Python-learning-orange?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-learning-orange?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-learning-orange?style=flat&logo=c&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-learning-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-learning-orange?style=for-the-badge&logo=c&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Also:** ChromaDB · Unsloth · QLoRA · Google Colab · Kaggle
+## 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Amin-79E&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-79E&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 📫 Reach me
 
-- Email: aminmbouhjar@gamil.com
-- LinkedIn: https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/
-
-<!-- Optional: contribution stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
--->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
