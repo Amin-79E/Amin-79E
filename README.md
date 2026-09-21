@@ -53,7 +53,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 - Mentorship and feedback on my projects
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Amin-79E&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=8957e5&text_color=c9d1d9" />
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Amin-79E&theme=dark&hide_border=true&background=0d1117&ring=A371F7&fire=EA80FC&currStreakLabel=EA80FC&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
