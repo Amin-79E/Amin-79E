@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**Amin-79E/Amin-79E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student at **Université 8 Mai 1945 – Guelma** (Algeria), focused on becoming an **AI engineer**. I build with local and fine-tuned LLMs, and I write up what worked and what didn't.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **University chatbot:** a RAG system for Université 8 Mai 1945 – Guelma, built on university documents *(in progress)*
+- **Python tutor:** a fine-tuned code-debugging assistant, currently iterating on v2.0 with better training data
+- **Coursework:** CS50 (Python, AI, Data Science) and freeCodeCamp Python, plus Java for university
+
+## 🛠️ Projects
+
+### [Local RAG Restaurant Review Assistant](https://github.com/YOUR-USERNAME/REPO-NAME)
+Terminal Q&A over restaurant reviews, running fully offline.
+`Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
+Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
+
+### [Python Tutor: fine-tuned Qwen2.5-Coder-7B](https://github.com/YOUR-USERNAME/REPO-NAME)
+QLoRA fine-tune (Unsloth) for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
+Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
+
+## 🧰 Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-learning-orange?style=flat&logo=openjdk&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Also:** ChromaDB · Unsloth · QLoRA · Google Colab · Kaggle
+
+## 📫 Reach me
+
+- Email: your.email@example.com
+- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+
+<!-- Optional: contribution stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
 -->
