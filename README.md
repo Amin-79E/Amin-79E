@@ -31,8 +31,8 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 ## 📫 Reach me
 
-- Email: your.email@example.com
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- Email: aminmbouhjar@gamil.com
+- LinkedIn: https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/
 
 <!-- Optional: contribution stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
