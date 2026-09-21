@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=180&section=header&text=Hi,%20I'm%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20student%20%C2%B7%20aspiring%20AI%20engineer&descAlignY=60&descSize=18)
@@ -17,14 +16,18 @@ I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I b
 
 ## 🛠️ Projects
 
-### [Local RAG Restaurant Review Assistant](https://github.com/YOUR-USERNAME/REPO-NAME)
+### Local RAG Restaurant Review Assistant
 Terminal Q&A over restaurant reviews, running fully offline.
 `Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
 Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
 
-### [Python Tutor: fine-tuned Qwen2.5-Coder-7B](https://github.com/YOUR-USERNAME/REPO-NAME)
+[![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Learning-RAG)
+
+### Python Tutor: fine-tuned Qwen2.5-Coder-7B
 QLoRA fine-tune (Unsloth) for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
 Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
+
+[![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Python-Tutor)
 
 ## 🧰 Tech
 
@@ -38,9 +41,5 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 ## 📫 Reach me
 
-- Email: aminmbouhjar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/
-
-<!-- Optional: contribution stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
--->
+[![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
