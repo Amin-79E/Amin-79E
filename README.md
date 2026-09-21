@@ -24,6 +24,7 @@ Documented limitations: no filtering of low-relevance retrieval, and occasional 
 [![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Learning-RAG)
 
 <br>
+<br>
 
 [![Python Tutor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=440&height=28&lines=Python+Tutor%3A+fine-tuned+Qwen2.5-Coder-7B)](https://github.com/Amin-79E/Python-Tutor)
 
