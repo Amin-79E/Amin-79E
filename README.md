@@ -60,7 +60,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
     />
 
 </div>
-## 📫 Reach me
+**## 📫 Reach me**
 
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
