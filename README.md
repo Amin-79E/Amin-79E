@@ -58,9 +58,8 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
   <img src="https://streak-stats.demolab.com/?user=Amin-79E&theme=dark&hide_border=true&background=0d1117&ring=A371F7&fire=EA80FC&currStreakLabel=EA80FC&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&hide_total_contributions=true&v=2" 
     alt="GitHub contribution streak"
     />
-
 </div>
-**## 📫 Reach me**
 
+## 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
