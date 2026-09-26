@@ -5,9 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A371F7&center=true&vCenter=true&width=520&lines=Building+RAG+systems;Fine-tuning+and+evaluating+LLMs;Learning+something+every+day)](https://github.com/Amin-79E)
 
 </div>
-
-<br>
-I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I build with local and fine-tuned LLMs. [![Portfolio](https://img.shields.io/badge/Portfolio-8957E5?style=flat&logo=googlechrome&logoColor=white)](https://amin-79e.github.io/Portfolio/)
+<p>
+  I study computer science at <strong>Université 8 Mai 1945 – Guelma</strong> (Algeria). I build with local and fine-tuned LLMs.
+  <a href="https://amin-79e.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ## 🔭 What I'm working on
 
