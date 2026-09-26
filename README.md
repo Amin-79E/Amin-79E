@@ -8,7 +8,7 @@
 
 <br>
 I study computer science at **Université 8 Mai 1945 – Guelma** (Algeria). I build with local and fine-tuned LLMs.
-
+<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-8957E5?style=flat&logo=googlechrome&logoColor=white)](https://amin-79e.github.io/Portfolio/)
 
 ## 🔭 What I'm working on
