@@ -55,7 +55,6 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 <br>
 
 <div align="center">
-<div align= "center">
   <img src="https://streak-stats.demolab.com/?user=Amin-79E&theme=midnight-purple" alt="GitHub Streak">
 </div>
 
