@@ -57,8 +57,9 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 <div align="center">
 <div align= "center">
   <img src="https://streak-stats.demolab.com/?user=Amin-79E&theme=midnight-purple" alt="GitHub Streak">
-
 </div>
+
+<br>
 
 ## 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
