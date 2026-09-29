@@ -39,7 +39,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 ![Python](https://img.shields.io/badge/Python-learning-orange?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-learning-green?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-learning-orange?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-learning-green?style=flat&logo=openjdk&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
