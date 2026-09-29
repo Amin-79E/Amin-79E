@@ -53,7 +53,10 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 - Mentorship and feedback on my projects
 
 <br>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Amin-79E)](https://git.io/streak-stats) ![image](https://user-images.githubusercontent.com/20955511/183303740-641a4a18-da69-46a8-b218-f1a6dc04fcdf.png)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Amin-79E" alt="GitHub Streak">
+</a>
+<img src="https://user-images.githubusercontent.com/20955511/183303740-641a4a18-da69-46a8-b218-f1a6dc04fcdf.png" alt="image">
 
 ## 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
