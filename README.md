@@ -35,16 +35,14 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 [![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Python-Tutor)
 
-## 🧰 Tech
+## 🧰 Skills
 
-![Python](https://img.shields.io/badge/Python-learning-orange?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-learning-green?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-learning-green?style=flat&logo=openjdk&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Also:** ChromaDB · Unsloth · QLoRA · Google Colab · Kaggle
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,git,github,vscode,ollama,langchain,huggingface,kaggle" alt="Skills" height="48" />
+  <img src="https://img.shields.io/badge/-%20-242938?style=flat-square&logo=googlecolab&logoColor=F9AB00&logoSize=auto" alt="Google Colab" height="48" />
+  <img src="https://raw.githubusercontent.com/Amin-79E/Amin-79E/main/chroma-tile.svg" alt="ChromaDB" height="48" />
+  <img src="https://raw.githubusercontent.com/Amin-79E/Amin-79E/main/unsloth-tile.svg" alt="Unsloth" height="48" />
+</p>
 ## 🤝 Open to
 
 - Research collaboration
