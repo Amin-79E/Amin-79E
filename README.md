@@ -35,7 +35,6 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 [![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Python-Tutor)
 
-<br>
 
 ## 🧰 Tech Stack
 
@@ -53,8 +52,6 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
-
-<br>
 
 ## 🤝 Open to
 
