@@ -64,12 +64,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
     <td>Year</td>
     <td><a href="CERTIFICATE_URL"><img src="https://img.shields.io/badge/View-Certificate-8957e5?style=for-the-badge&logo=googlescholar&logoColor=white" /></a></td>
   </tr>
-  <tr>
-    <td><b>Certificate</b></td>
-    <td>Issuer</td>
-    <td>Year</td>
-    <td><a href="CERTIFICATE_URL"><img src="https://img.shields.io/badge/View-Certificate-8957e5?style=for-the-badge&logo=googlescholar&logoColor=white" /></a></td>
-  </tr>
+
 </table>
 
 ## 🤝 Open to
