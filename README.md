@@ -10,6 +10,24 @@
   <a href="https://amin-79e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat" alt="Portfolio"></a>
 </p>
 
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,java,git,github,vscode&theme=dark" alt="Skills" />
+</p>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-8957e5?style=flat" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Unsloth-8957e5?style=flat" alt="Unsloth" />
+  <img src="https://img.shields.io/badge/QLoRA-8957e5?style=flat" alt="QLoRA" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+</p>
+
+<br>
+
 ## 🔭 What I'm working on
 
 - **University chatbot:** a RAG system for Université 8 Mai 1945 – Guelma, built on university documents *(in progress)*
@@ -35,23 +53,24 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 [![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Python-Tutor)
 
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,c,java,git,github,vscode&theme=dark" alt="Skills" />
-</p>
 <br>
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-8957e5?style=flat" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Unsloth-8957e5?style=flat" alt="Unsloth" />
-  <img src="https://img.shields.io/badge/QLoRA-8957e5?style=flat" alt="QLoRA" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
-</p>
 
+## 🎓 Certificates
+
+<table>
+  <tr>
+    <td><b>Certificate name</b></td>
+    <td>Issuer</td>
+    <td>Year</td>
+    <td><a href="CERTIFICATE_URL"><img src="https://img.shields.io/badge/View-Certificate-8957e5?style=for-the-badge&logo=googlescholar&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Another certificate</b></td>
+    <td>Issuer</td>
+    <td>Year</td>
+    <td><a href="CERTIFICATE_URL"><img src="https://img.shields.io/badge/View-Certificate-8957e5?style=for-the-badge&logo=googlescholar&logoColor=white" /></a></td>
+  </tr>
+</table>
 
 ## 🤝 Open to
 
