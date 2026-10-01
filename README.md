@@ -10,7 +10,7 @@
   <a href="https://amin-79e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat" alt="Portfolio"></a>
 </p>
 
-## 🧰 Tech Stack
+## 🧰 Foundations 
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,java,git,github,vscode&theme=dark" alt="Skills" />
