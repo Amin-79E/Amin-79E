@@ -13,7 +13,7 @@
 ## 🧰 Foundations 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,git,github,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css,git,github,vscode&theme=dark" alt="Skills" />
 </p>
 <br>
 <p>
