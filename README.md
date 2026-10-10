@@ -33,6 +33,7 @@
 - **University chatbot:** a RAG system for Université 8 Mai 1945 – Guelma, built on university documents *(in progress)*
 - **Python tutor:** a fine-tuned code-debugging assistant, currently iterating on v2.0 with better training data
 <br>
+
 ## 🛠️ Projects
 [![Local RAG Restaurant Review Assistant](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=400&height=28&lines=Local+RAG+Restaurant+Review+Assistant)](https://github.com/Amin-79E/Learning-RAG)
 
