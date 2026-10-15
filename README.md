@@ -46,7 +46,7 @@ Documented limitations: no filtering of low-relevance retrieval, and occasional 
 <br>
 <br>
 
-[![Python Tutor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=440&height=28&lines=Python+Tutor%3A+fine-tuned+Qwen2.5-Coder-7B)](https://github.com/Amin-79E/Python-Tutor)
+[![Ouroboros (Python Tutor)](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=440&height=28&lines=Python+Tutor%3A+fine-tuned+Qwen2.5-Coder-7B)](https://github.com/Amin-79E/Python-Tutor)
 
 QLoRA fine-tune (Unsloth) for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
 Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
