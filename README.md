@@ -35,7 +35,7 @@
 <br>
 
 ## 🛠️ Projects
-[![Restaurant evaluator](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=400&height=28&lines=Restaurant+evaluator:)](https://github.com/Amin-79E/Learning-RAG)
+[![Restaurant evaluator](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=400&height=28&lines=Restaurant+evaluator%3A+RAG-System)](https://github.com/Amin-79E/Learning-RAG)
 
 Terminal Q&A over restaurant reviews, running fully offline.
 `Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
