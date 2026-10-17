@@ -31,7 +31,6 @@
 ## 🔭 What I'm working on
 
 - **University chatbot:** An LLM for Université 8 Mai 1945 – Guelma, built on university documents *(in progress)*
-- **Python tutor:** a fine-tuned code-debugging assistant, currently iterating on v2.0 with better training data *(in progress)*
 <br>
 
 ## 🛠️ Projects
