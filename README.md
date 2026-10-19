@@ -79,3 +79,11 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 ## 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
+
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amin-79E&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=EA80FC&text_color=c9d1d9&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-79E&layout=compact&hide_border=true&bg_color=0d1117&title_color=A371F7&text_color=c9d1d9" alt="Top Languages" />
+</p>
