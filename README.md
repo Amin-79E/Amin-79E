@@ -52,19 +52,6 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 [![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Python-Tutor)
 
-<br>
-
-## 🎓 Certificates
-
-<table>
-  <tr>
-    <td><b>Certificate name</b></td>
-    <td>Issuer</td>
-    <td>Year</td>
-    <td><a href="CERTIFICATE_URL"><img src="https://img.shields.io/badge/View-Certificate-8957e5?style=for-the-badge&logo=googlescholar&logoColor=white" /></a></td>
-  </tr>
-
-</table>
 
 <br>
 
