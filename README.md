@@ -80,11 +80,12 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
   />
 </p>
 
+
 <p align="center">
   <img
-    width="495"
-    src="https://ghstats.dev/api/langs?username=Amin-79E&layout=bar&max_langs=3&bg=0d1117&title_color=A371F7&text=c9d1d9&hide_border=true"
-    alt="Top 3 Programming Languages"
+    width="600"
+    src="https://ghstats.dev/api/langs?username=Amin-79E&layout=vertical_list&max_langs=12&bg=0d1117&title_color=A371F7&text=c9d1d9&hide_border=true&custom_title=All%20Languages"
+    alt="All Programming Languages"
   />
 </p>
 
