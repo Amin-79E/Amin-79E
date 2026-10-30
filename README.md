@@ -87,3 +87,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
     alt="Top 3 Programming Languages"
   />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amin-79E&hide_border=true&background=0d1117&ring=A371F7&fire=EA80FC&currStreakLabel=A371F7&sideLabels=A371F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</p>
