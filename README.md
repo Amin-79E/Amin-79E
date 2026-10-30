@@ -75,7 +75,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 <p align="center">
   <img
     width="495"
-    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true&size=default&hide=issues,streak,week,trend,avg,active_day,grade,repos,followers"
+    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true&size=default&hide=issues,trend,grade,repos,followers"
     alt="GitHub Statistics"
   />
 </p>
