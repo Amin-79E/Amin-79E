@@ -70,25 +70,20 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
 
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
   <img
-    height="170"
-    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://ghstats.dev/api/langs?username=Amin-79E&layout=compact&bg=0d1117&title_color=A371F7&text=c9d1d9&hide_border=true"
-    alt="Top Languages"
+    width="495"
+    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true&size=default&hide=issues,streak,week,trend,avg,active_day,grade,repos,followers"
+    alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Amin-79E&hide_border=true&background=0d1117&ring=A371F7&fire=EA80FC&currStreakLabel=A371F7&sideLabels=A371F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
-    alt="GitHub Streak"
+    width="495"
+    src="https://ghstats.dev/api/langs?username=Amin-79E&layout=bar&max_langs=3&bg=0d1117&title_color=A371F7&text=c9d1d9&hide_border=true"
+    alt="Top 3 Programming Languages"
   />
 </p>
-
