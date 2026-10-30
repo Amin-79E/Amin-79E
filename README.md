@@ -69,26 +69,28 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
 
-
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
   <img
-    width="495"
-    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true&size=default&hide=issues,trend,grade,repos,followers"
+    width="500"
+    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true&size=default&hide=issues,streak,week,avg,active_day,grade,repos,followers,commits_year,hours,contributions"
     alt="GitHub Statistics"
   />
 </p>
 
-
 <p align="center">
   <img
-    width="600"
-    src="https://ghstats.dev/api/langs?username=Amin-79E&layout=vertical_list&max_langs=12&bg=0d1117&title_color=A371F7&text=c9d1d9&hide_border=true&custom_title=All%20Languages"
-    alt="All Programming Languages"
+    width="500"
+    src="https://ghstats.dev/api/langs?username=Amin-79E&layout=vertical_list&max_langs=8&hide_values=true&bg=0d1117&title_color=A371F7&text=c9d1d9&hide_border=true&custom_title=Top%20Languages"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amin-79E&hide_border=true&background=0d1117&ring=A371F7&fire=EA80FC&currStreakLabel=A371F7&sideLabels=A371F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+  <img
+    width="500"
+    src="https://streak-stats.demolab.com/?user=Amin-79E&hide_border=true&background=0d1117&ring=A371F7&fire=EA80FC&currStreakLabel=A371F7&sideLabels=A371F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
+    alt="GitHub Streak"
+  />
 </p>
