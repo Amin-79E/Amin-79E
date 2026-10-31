@@ -12,11 +12,17 @@
 
 ## 🧰 Stack
 
-**Languages & web**
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css,git,github,vscode&theme=dark" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css&theme=dark" alt="Languages and tools" />
 </p>
+
+**DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Languages and tools" />
+</p>
+
 
 **LLM stack**
 
@@ -29,6 +35,8 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
+
+<br>
 
 ## 🔭 What I'm working on
 
