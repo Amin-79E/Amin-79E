@@ -10,12 +10,16 @@
   <a href="https://amin-79e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat" alt="Portfolio"></a>
 </p>
 
-## 🧰 Foundations 
+## 🧰 Stack
+
+**Languages & web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css,flask,git,github,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css,git,github,vscode&theme=dark" alt="Languages and tools" />
 </p>
-<br>
+
+**LLM stack**
+
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
@@ -25,8 +29,6 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
-
-<br>
 
 ## 🔭 What I'm working on
 
