@@ -79,11 +79,10 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
 <a href="https://amin-79e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat" alt="Portfolio"></a>
 
-
-## 🛡️ TryHackMe
+<h2>🛡️ TryHackMe</h2>
 
 <a href="https://tryhackme.com/p/Amin79Ee">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Amin79Ee.png" alt="TryHackMe stats" />
+  <img src="https://img.shields.io/badge/TryHackMe-Amin79Ee-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </a>
 
 <h3 align="center">📊 GitHub Statistics</h3>
