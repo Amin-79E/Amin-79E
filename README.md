@@ -63,6 +63,14 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 
 
 <br>
+<h2>🛡️ TryHackMe</h2>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Amin79Ee">
+    <img src="https://img.shields.io/badge/TryHackMe-Amin79Ee-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1033" alt="TryHackMe" />
+  </a>
+</p>
+<br>
 
 ## 🤝 Open to
 
@@ -79,12 +87,7 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
 <a href="https://amin-79e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat" alt="Portfolio"></a>
 
-<h2>🛡️ TryHackMe</h2>
-
-<a href="https://tryhackme.com/p/Amin79Ee">
-  <img src="https://img.shields.io/badge/TryHackMe-Amin79Ee-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</a>
-
+<br>
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
