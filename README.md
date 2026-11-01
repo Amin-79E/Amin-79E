@@ -6,7 +6,7 @@
 
 </div>
 <p>
-  I study computer science at <strong>Université 8 Mai 1945 – Guelma</strong> (Algeria). I build with local and fine-tuned LLMs. 
+  CSE student in Guelma, Algeria, working toward AI engineering and exploring full-stack web and software development.
 </p>
 
 ## 🧰 Stack
