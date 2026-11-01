@@ -90,7 +90,6 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 </p>
 
 
-
 <p align="center">
   <img
     width="500"
@@ -98,3 +97,9 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
     alt="GitHub Streak"
   />
 </p>
+
+## 🛡️ TryHackMe
+
+<a href="https://tryhackme.com/p/Amin79Ee">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Amin79Ee.png" alt="TryHackMe stats" />
+</a>
