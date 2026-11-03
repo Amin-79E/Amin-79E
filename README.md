@@ -11,19 +11,19 @@
 
 ## 🧰 Stack
 
-**Languages**
+**Languages:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css&theme=dark" alt="Languages and tools" />
 </p>
 
-**DevOps**
+**DevOps:**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Languages and tools" />
 </p>
 
 
-**LLM**
+**LLM:**
 
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
