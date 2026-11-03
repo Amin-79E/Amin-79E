@@ -23,7 +23,7 @@
 </p>
 
 
-**LLM stack**
+**LLM**
 
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
