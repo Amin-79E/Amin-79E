@@ -39,7 +39,8 @@
 
 ## 🔭 What I'm working on
 
-- **University chatbot:** An LLM for Université 8 Mai 1945 – Guelma, built on university documents *(in progress)*
+- 🌱Learning cybersecurity (TryHackMe), full stack web development and AI/ML fundamentals.
+- 🎯 Goal: AI engineering, with a Master's in Germany
 <br>
 
 ## 🛠️ Projects
