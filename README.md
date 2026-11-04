@@ -40,7 +40,7 @@
 ## 🔭 What I'm working on
 
 - Learning cybersecurity (TryHackMe), full stack web development and AI/ML fundamentals.
-- Goal: AI engineering, with a Master's in Germany
+- Goal: AI engineering, with a strong foundation in cybersecurity and software development.
 <br>
 
 ## 🛠️ Projects
