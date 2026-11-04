@@ -75,7 +75,6 @@ Result: a modest overall gain, strongest on requirement-based debugging. It over
 ## 🤝 Open to
 
 - Research collaboration
-- LLM evaluation and RAG projects
 - Open-source contributions
 - Mentorship and feedback on my projects
 
