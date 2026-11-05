@@ -70,6 +70,7 @@
 ## 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-8957e5?style=flat&logo=gmail&logoColor=white)](mailto:aminmbouhjar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8957e5?style=flat)](https://www.linkedin.com/in/mohammed-amin-bouhadjar-8b0178343/)
+[![Telegram](https://img.shields.io/badge/Telegram-8957e5?style=flat&logo=telegram&logoColor=white)](https://t.me/amin_79e)
 <a href="https://amin-79e.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat" alt="Portfolio"></a>
 
 <br>
