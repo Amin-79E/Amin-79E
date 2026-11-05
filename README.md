@@ -44,13 +44,8 @@
 <br>
 
 ## 🛠️ Projects
-[![Restaurant evaluator](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=400&height=28&lines=Restaurant+evaluator%3A+RAG-System)](https://github.com/Amin-79E/Learning-RAG)
-
-Terminal Q&A over restaurant reviews, running fully offline.
-`Ollama` · `llama3.2` · `mxbai-embed-large` · `Chroma` · `LangChain`
-Documented limitations: no filtering of low-relevance retrieval, and occasional hallucinated names. Similarity thresholds and retrieval evaluation are next.
-
-[![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Learning-RAG)
+<a href="https://github.com/Amin-79E/Learning-RAG"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=400&height=28&lines=Restaurant+evaluator%3A+RAG-System" alt="Restaurant evaluator"></a>
+<a href="https://github.com/Amin-79E/Learning-RAG"><img align="middle" src="https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white" alt="Repo"></a>
 
 <br>
 <br>
