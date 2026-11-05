@@ -50,13 +50,8 @@
 <br>
 <br>
 
-[![Ouroboros (Python Tutor)](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=440&height=28&lines=Ouroboros%3A+fine-tuning)](https://github.com/Amin-79E/Python-Tutor)
-
-Fine-tune for explaining Python bugs, evaluated against the base model on a custom benchmark: syntax errors, logic errors, edge cases, requirement-based fixes, and correct code that should be left alone.
-Result: a modest overall gain, strongest on requirement-based debugging. It over-flags correct code, which points to better data as the next fix.
-
-[![Repo](https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white)](https://github.com/Amin-79E/Python-Tutor)
-
+<a href="https://github.com/Amin-79E/Python-Tutor"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=440&height=28&lines=Ouroboros%3A+fine-tuning" alt="Ouroboros (Python Tutor)"></a>
+<a href="https://github.com/Amin-79E/Python-Tutor"><img align="middle" src="https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white" alt="Repo"></a>
 
 <br>
 <h2>🛡️ TryHackMe</h2>
