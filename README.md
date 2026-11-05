@@ -49,6 +49,7 @@
 <a href="https://github.com/Amin-79E/Python-Tutor"><img align="middle" src="https://img.shields.io/badge/View_repo-8957e5?style=flat&logo=github&logoColor=white" alt="Repo"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Amin-79E/Python-Tutor"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=700&color=EA80FC&repeat=false&width=440&height=28&lines=Ouroboros" alt="Ouroboros (Python Tutor)"></a>
 
 <br>
+
 <h2>🛡️ TryHackMe</h2>
 
 <p align="center">
@@ -56,7 +57,6 @@
     <img src="https://img.shields.io/badge/TryHackMe-Amin79Ee-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1033" alt="TryHackMe" />
   </a>
 </p>
-<br>
 
 ## 🤝 Open to
 
