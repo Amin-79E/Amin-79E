@@ -6,7 +6,7 @@
 
 </div>
 <p>
-  CSE student in Guelma, Algeria, working toward AI engineering and exploring full-stack web and software development.
+  CSE student in Guelma, Algeria, working toward AI engineering, exploring full-stack web and software development and cybersecurity.
 </p>
 
 ## 🧰 Stack
