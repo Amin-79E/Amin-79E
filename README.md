@@ -14,7 +14,7 @@
 **Languages:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,java,javascript,html,css&theme=dark" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,javascript,html,css&theme=dark" alt="Languages and tools" />
 </p>
 
 **DevOps:**
