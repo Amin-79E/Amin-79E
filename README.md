@@ -54,12 +54,10 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Amin79Ee">
-    <img src="https://img.shields.io/badge/TryHackMe-Amin79Ee-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1033" alt="TryHackMe" />
-  </a>
+    <img src="https://img.shields.io/badge/TryHackMe-Amin79Ee-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1033" alt="TryHackMe" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="PASTE_YOUR_HTB_PROFILE_URL_HERE">
-    <img src="https://img.shields.io/badge/HackTheBox-Amin79Ee-8957e5?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1033" alt="Hack The Box" />
-  </a>
+    <img src="https://img.shields.io/badge/HackTheBox-Amin79Ee-8957e5?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1033" alt="Hack The Box" /></a>
 </p>
 <br>
 
