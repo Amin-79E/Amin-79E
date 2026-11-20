@@ -9,7 +9,7 @@
   CSE student in Algeria, working toward AI engineering, exploring full-stack web and software development and cybersecurity.
 </p>
 
-## 💻 Stack
+## ⚙️ Stack
 
 **Languages:**
 
