@@ -74,11 +74,7 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img
-    width="500"
-    src="https://ghstats.dev/api/card?username=Amin-79E&bg=0d1117&title_color=A371F7&icon_color=EA80FC&text=c9d1d9&hide_border=true&size=default&hide=issues,streak,week,avg,active_day,grade,repos,followers,commits_year,hours,contributions"
-    alt="GitHub Statistics"
-  />
+  <img width="500" src="https://github-stats-extended.vercel.app/api?username=Amin-79E&show_icons=true&bg_color=0d1117&title_color=A371F7&icon_color=EA80FC&text_color=c9d1d9&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 
