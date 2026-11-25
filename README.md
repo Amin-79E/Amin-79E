@@ -50,6 +50,19 @@
 
 <br>
 
+<h2>🧩 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Amin-bouhadjar/">
+    <img src="https://img.shields.io/badge/LeetCode-Amin--bouhadjar-8957e5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1033" alt="LeetCode" /></a>
+</p>
+
+
+<p>
+  Practicing data structures and algorithms in <b>C</b>, following the NeetCode roadmap by topic (arrays, hashing, two pointers, ...).
+</p>
+<br>
+
 <h2>🛡️ TryHackMe & Hack The Box</h2>
 
 <p align="center">
